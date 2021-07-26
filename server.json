@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id":1,
+      "photo":"https://a-static.mlcdn.com.br/1500x1500/iphone-12-pro-max-apple-128gb-prateado-67-cam-tripla-12mp-ios/magazineluiza/155596000/d821f1c76e7c545c6dd7b2a5f2272695.jpg",
+      "name":"Iphone",
+      "description": "Descrição do Produto",
+      "price": 5000
+    },
+    {
+      "id":2,
+      "photo":"https://a-static.mlcdn.com.br/1500x1500/iphone-12-pro-max-apple-128gb-prateado-67-cam-tripla-12mp-ios/magazineluiza/155596000/d821f1c76e7c545c6dd7b2a5f2272695.jpg",
+      "name":"Xiaomi",
+      "description": "Descrição do Produto",
+      "price": 5000
+    }
+  ]
+}
